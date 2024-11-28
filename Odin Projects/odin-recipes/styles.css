@@ -1,14 +1,15 @@
 /* CSS styling */
 
 * {
-    font-family:'Times New Roman', Times, serif;
-    background-color: palevioletred;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: peachpuff;
 
 }
 
 .title-container {
     margin: 8px auto;
     text-align: center;
+    
 
 }
 .Title {
@@ -17,8 +18,25 @@
     border: solid whitesmoke 2.5px;
     padding: 5px;
     background-color: palegoldenrod;
+    
 }
 
 .Odin-Recipes {
     background-color: palegoldenrod;
+    font-family:'Times New Roman', Times, serif;
+}
+
+p {
+    box-sizing: content-box;
+    width: 100%;
+    padding: 5px;
+}
+
+li {
+    box-sizing: content-box;
+    padding: 5px;
+}
+
+a {
+    color: black;
 }
