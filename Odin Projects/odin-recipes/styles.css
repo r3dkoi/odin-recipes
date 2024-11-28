@@ -38,5 +38,26 @@ li {
 }
 
 a {
+    color: palegoldenrod;
+    font-size: 15px;
+    background-color: black;
+    border: none;
+}
+
+button {
+    box-sizing: border-box;
+    background-color: black;
+    border: none;
+    margin-left: 10px;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li:before {
+    content: "\01F37D";
     color: black;
+    padding-right: 10px;
 }
