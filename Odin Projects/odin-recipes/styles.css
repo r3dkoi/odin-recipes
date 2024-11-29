@@ -61,3 +61,21 @@ ul li:before {
     color: black;
     padding-right: 10px;
 }
+
+li.Carbonara {
+    display: inline-block;
+    padding: 0px 5px;
+    margin: 0px 0px;
+}
+
+li.Ice-Cream-Cake {
+    display: inline-block;
+    padding: 0px 5px;
+    margin: 0px 20px;
+}
+
+li.Mango-Float {
+    display: inline-block;
+    padding: 0px 5px;
+    margin: 50px 0px;
+}
